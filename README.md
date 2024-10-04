@@ -5,13 +5,10 @@
 
 - 🌱 I’m currently still learning **Kotlin and Android**
 
-- 💬 Ask me about **everything what you want😅**
-
 - 📫 How to reach me **budnitskyartem@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/artem-budnitski/](www.linkedin.com/in/artem-budnitski/)
 
-- ⚡ Fun fact **I think I can be funny sometimes, but I always approach things responsibly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
