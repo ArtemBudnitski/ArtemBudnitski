@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently still learning **Kotlin and Android**
 
-- 📫 How to reach me **budnitskyartem@gmail.com**
-
-- 📄 Know about my experiences [www.linkedin.com/in/artem-budnitski/](www.linkedin.com/in/artem-budnitski/)
+- 📫 How to reach me **work.artembudnitski@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
